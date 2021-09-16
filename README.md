@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there! I'm Pedro Guilherme. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<h2 align="center">Welcome!</h2>
 <p align="center"> 
  New Visitors
    <br><br>
@@ -7,10 +7,12 @@
    ********************
  </p>
 
-- <p>📍 São Paulo - SP</p>
-- <p>📚 Studying Computer Science</p>
-- <p>💻 Fullstack Java Developer at Stefanini Group</p><br>
-
+<div align="center">
+ <p align="center">📍 São Paulo - SP</p>
+ <p>🎯 Studying Computer Science</p>
+ <p>💻 Fullstack Java Developer at Stefanini Group</p><br>
+</div>
+ 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromecf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromecf&layout=compact&langs_count=16&theme=dracula"/>
