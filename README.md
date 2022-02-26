@@ -10,7 +10,7 @@
 <div align="center">
  <p align="center">📍 São Paulo - SP</p>
  <p>🎯 Studying Computer Science</p>
- <p>💻 Fullstack Java Developer at Stefanini Group</p><br>
+ <p>💻 Fullstack Developer at Stefanini</p><br>
 </div>
  
 <div align="center">
