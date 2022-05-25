@@ -8,9 +8,9 @@
  </p>
 
 <div align="center">
- <p align="center">📍 São Paulo - SP</p>
+ <p align="center">📍 São Paulo</p>
  <p>🎯 Studying Computer Science</p>
- <p>💻 Fullstack Developer at Stefanini</p><br>
+ <p>💻 Full-Stack Developer at Stefanini</p><br>
 </div>
  
 <div align="center">
